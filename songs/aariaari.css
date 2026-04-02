@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+h1 {
+    color: rgb(27, 174, 253);
+}
+h3 {
+    color: blueviolet;
+}
+a {
+    color: rgb(189, 189, 43);
+}
+pre {
+    color: rgb(241, 23, 106);
+    text-size-adjust: 5px;
+}
+header {
+    background-color: beige;
+}
+footer {
+    background-color: beige;
+}
+main {
+    background-color: antiquewhite;
+}
